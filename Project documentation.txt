@@ -52,8 +52,13 @@ edges struct, and displayed it with a for loop.
 an idea: create a route struct
 with first, second, third, and fourth values
 it wokred! need to implement weight values
+they have been implemented
 
 created a github account
 
 5/17
-combined the routes and shortest trips
+combined the routes and shortest trips into one
+found a way to find the cheapest trip via a for loop to look for a low index.
+Focus now...make the project more modular? and clean up the code a bit. 
+As of now, am getting the github setup. 
+once I feel the .cpp is good, I shall add it here as well.
