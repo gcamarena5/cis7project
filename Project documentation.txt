@@ -1,0 +1,59 @@
+1. Chosing the solar one.
+Most likely will work alone.
+
+5/5/2023
+Adjacency list is done. Need to work on determing paths.
+
+
+First, will create a path list on my own.
+And then implement into the program.
+
+A short path
+
+0 -> 1 -> 2
+
+Some program design:
+
+A main menu
+with each choice seperate into either a switch statement, 
+or use function calls.
+I want to include everything in a do while loop so the
+program repeats!
+
+5/6/2023
+Basic do while loop was implemented and adjacency list 
+display as well.
+
+Possible paths
+(0,1) (0,2) (0,3) (1,2)(1,3) (2,3)
+
+Must implement a way to display possible paths 
+and their weight.
+
+(0 - 1 - 2 - 3)
+(0 - 1 - 3 - 2)
+(0 - 2 - 1 - 3)
+(0 - 2 - 3 - 1)
+(0 - 3 - 1 - 2)
+(0 - 3 - 2 - 1)
+
+
+5/10/23
+Investigating the viability of the do while loop.
+Addign comments, gutting the edges, and am going to rework that from the ground up
+
+5/13/2023
+Am adding in manually via cout statements the edges and routes. Will figure out a way to code these later.
+done!
+5/14/2023
+Found a way to display edges! I created an
+edges struct, and displayed it with a for loop.
+5/16/2023
+an idea: create a route struct
+with first, second, third, and fourth values
+it wokred! need to implement weight values
+
+created a github account
+
+5/17
+combined the routes and shortest trips
