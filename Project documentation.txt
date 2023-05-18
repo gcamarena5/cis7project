@@ -62,3 +62,5 @@ found a way to find the cheapest trip via a for loop to look for a low index.
 Focus now...make the project more modular? and clean up the code a bit. 
 As of now, am getting the github setup. 
 once I feel the .cpp is good, I shall add it here as well.
+5/18
+Am making the program more modular and cleaning up main by adding each option into its own function.
