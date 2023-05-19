@@ -64,3 +64,6 @@ As of now, am getting the github setup.
 once I feel the .cpp is good, I shall add it here as well.
 5/18
 Am making the program more modular and cleaning up main by adding each option into its own function.
+5/19
+Did what I set out to with modularity, main looks a lot cleaner! Possibly considering including those functions in their own seperate header file.
+Updated the values +1. So riverside went from 0 to 1 etc etc. I felt it would be more readable that way for the user. 
