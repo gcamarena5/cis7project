@@ -1,0 +1,76 @@
+//So, this project will take a graph and plan out the shortest possible path, the cheapest, and also list adjacencies and matrices
+
+//I want this program to have some modularity
+
+
+
+//node object
+ //this program will feature traversing nodes as a form of storage
+ //hold a destination, and a weight value
+
+//edge object
+ //this requires a destination variable, source variable, and weight
+
+//route object
+ //this has paths to add a route
+ 
+
+//graph class
+	//declare pointer of objects called head whichll be used to traverse the nodes
+
+	//initalize all heads to NULL
+
+	//constructor
+	create the nodes based off the number of edges via a for loop to a creator function
+	//creator function
+	Initalize the destination variable and weight here via ->
+
+	//destructor
+	//delete all new node objects
+	
+
+
+//print function
+	//traverse each node and display its values
+
+//isvalid function to verify input.
+ //bool variable declared
+ //parametrs checked; if true, set to true
+ //returning bool 
+
+
+//declarations for functions in main 
+//main 
+//do while loop on condition of user choice
+//a menu called via a function
+//validation function
+//if else statments based on choice variable
+
+//choice 1 is display routes and shortest route
+//choice 2 is display edges
+//choice 3 is adjacency list
+//choice 4 is to exit
+
+//small goodbye message
+
+//outside of main
+//choice 1
+ //route object is created and initalized with routes and their weights
+ //lowindex set to 0
+	//for loop for the size of the routes array
+	//testing against a lowindex, if less than current low index then it is assigned to the current index value
+  	//lowest trip cost is displayed using lowindex variable.
+//choice 2
+ //edge object is created and filled
+ //then, edges are displayed via for loop
+ //i.e. source - > destination
+
+//choice 3
+  //variables for num of edges, and num of vertices
+  //here vertices will be inserted into an edge object of arrays
+  //num of edges will be calculated
+  //these will be used to initalize a graph object, add the variables
+  //then, these will be printed
+
+//choice 4
+ //exit condition
