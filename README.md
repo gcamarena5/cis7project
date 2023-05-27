@@ -13,4 +13,4 @@ The results are displayed in the console.
 This program was created by Gregorio Camarena. 
 
 How to use:
-When prompted, enter the choice displayed on the menu. Said option should appear in the console. Press 4 to exit!
+When prompted, enter the choice displayed on the menu. Output for that option will appear in the console. Press 4 to exit!
