@@ -8,8 +8,8 @@ Gregorio Michael Camarena
 Solar Panel Route Graph Project
 
 The purpose of this project is to implement a graph in C++. It displays adjacencies, edges, routes, cheapest routes, paths, and shortest paths.
-The approach to implement a discrete structure (a graph) into C++ using functions and an emphasis on structs and classes.
-The graph is created by the developer inputting edges and creating a graph object. Routes. paths, and edges are also input by the developer.
+The approach to implement a discrete structure (a graph) into C++ is done by using functions and an emphasis on structs and classes.
+The graph is created by the developer inputting edges and creating a graph object. Routes, paths, and edges are also input by the developer.
 The results are displayed in the console.
 
 This program was created by Gregorio Camarena. 
