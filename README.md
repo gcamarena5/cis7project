@@ -4,7 +4,7 @@ CIS 7 project
 
 Publish Date: 6/1/2023
 
-Team members:
+Team members & authors:
 Gregorio Michael Camarena
 
 Solar Panel Route Graph Project
